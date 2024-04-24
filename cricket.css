@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-image: url(images/cricketground.jpg);
+  width: 90%;
+  padding-left: 100px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.choice-button{
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(95, 180, 111);
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.choice-image{
+  height: 75px;
+}
